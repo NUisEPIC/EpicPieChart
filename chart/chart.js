@@ -47,7 +47,8 @@ AmCharts.ready(function () {
     chart.outlineColor = "#FFFFFF";
     chart.outlineAlpha = 0.5;
     chart.outlineThickness = 1;
-
+    chart.labelText= "[[title]]";
+    chart.balloonText= "";
     chart.pullOutOnlyOne = true;
     chart.pullOutEffect = "elastic";
     // chart.clickSlice('1') = function() {

@@ -1,4 +1,11 @@
 #chartdiv {
   width: 50%;
   height: 400px;
+  float: right;
+}
+
+#teamdiv {
+  width: 50%;
+  height: 400px;
+  float: right;
 }
